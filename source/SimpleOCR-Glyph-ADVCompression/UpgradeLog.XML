@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SimpleOCR">
+</Property><Property Name="Solution File" Value="D:\_DEMO_GALLERY\PUBLISH\Demos\C# Source\SimpleOCR\SimpleOCR.sln">
+</Property><Property Name="Date" Value="Monday, January 14, 2013">
+</Property><Property Name="Time" Value="11:30 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SimpleOCR.sln" Description="File successfully backed up as D:\_DEMO_GALLERY\PUBLISH\Demos\C# Source\SimpleOCR\Backup\SimpleOCR.sln">
+</Event><Event ErrorLevel="0" Project="SimpleOCR" Source="SimpleOCR.csproj" Description="Project file successfully backed up as D:\_DEMO_GALLERY\PUBLISH\Demos\C# Source\SimpleOCR\Backup\SimpleOCR.csproj">
+</Event><Event ErrorLevel="0" Project="SimpleOCR" Source="About.cs" Description="File successfully backed up as D:\_DEMO_GALLERY\PUBLISH\Demos\C# Source\SimpleOCR\Backup\About.cs">
+</Event><Event ErrorLevel="0" Project="SimpleOCR" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\_DEMO_GALLERY\PUBLISH\Demos\C# Source\SimpleOCR\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SimpleOCR" Source="Form1.cs" Description="File successfully backed up as D:\_DEMO_GALLERY\PUBLISH\Demos\C# Source\SimpleOCR\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="SimpleOCR" Source="WinDemoHelperMethods.cs" Description="File successfully backed up as D:\_DEMO_GALLERY\PUBLISH\Demos\C# Source\SimpleOCR\Backup\WinDemoHelperMethods.cs">
+</Event><Event ErrorLevel="0" Project="SimpleOCR" Source="App.ico" Description="File successfully backed up as D:\_DEMO_GALLERY\PUBLISH\Demos\C# Source\SimpleOCR\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="SimpleOCR" Source="About.resx" Description="File successfully backed up as D:\_DEMO_GALLERY\PUBLISH\Demos\C# Source\SimpleOCR\Backup\About.resx">
+</Event><Event ErrorLevel="0" Project="SimpleOCR" Source="Form1.resx" Description="File successfully backed up as D:\_DEMO_GALLERY\PUBLISH\Demos\C# Source\SimpleOCR\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="SimpleOCR" Source="licenses.licx" Description="File successfully backed up as D:\_DEMO_GALLERY\PUBLISH\Demos\C# Source\SimpleOCR\Backup\licenses.licx">
+</Event><Event ErrorLevel="0" Project="SimpleOCR" Source="SimpleOCR.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="SimpleOCR" Source="SimpleOCR.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="SimpleOCR.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SimpleOCR.sln" Description="Converted">
+</Event></UpgradeLog>
