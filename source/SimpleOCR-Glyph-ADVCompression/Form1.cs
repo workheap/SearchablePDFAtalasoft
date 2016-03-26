@@ -497,9 +497,10 @@ namespace SimpleOCR
                     InfoBox(ex.Message);
                     return;
                 }
-				
+
+                this._fileLoaded = true;
 				// display the file.
-                try
+                /*try
                 {
                     this.workspaceViewer1.Open(_tempFile);
                     this._fileLoaded = true;
@@ -508,7 +509,7 @@ namespace SimpleOCR
                 {
                     this._fileLoaded = false;
                     MessageBox.Show("Unable to open requested image... Unsupported Image Type.");
-                }
+                }*/
 			}
 		}
 
